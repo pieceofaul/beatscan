@@ -1,0 +1,1 @@
+BeatScan is an intelligent solution powered by Artificial Intelligence (AI) that predicts the risk of heart disease quickly, accurately, and in real-time. It is designed to assist both the public and healthcare professionals in early detection before serious symptoms appear.
